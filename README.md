@@ -1,7 +1,7 @@
 # Power-BI
-Hi This Repository is for my Power BI Projects.
+Hi, this repository is for my Power BI Projects.
 
-# Covid 19 Analysis
+# Project No 1:  Covid 19 Analysis
 In this project, I had created  dashboards for covid 19 Cases and for Vaccination. 
 
 #Link
